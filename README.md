@@ -1,49 +1,47 @@
-# 👋 Hi, I'm Santhosh Chinnasamy
+  # 👋 Hi, I'm Santhosh Chinnasamy
 
-### 🌱 Aspiring Data Scientist | Python (DS), SQL, Power BI, ML | Exploring Deep Learning | Seeking DS/ML Roles
+### 🌱 Data Science and Analytics professional | Python (DS), SQL, Power BI, ML | Exploring Deep Learning 
 
 I am a motivated Data Science professional with an **Executive PG Certification in Data Science & AI** from *iHUB Divya Sampark – IIT Roorkee*.  
-I work with **Python for Data Science**, focusing on data manipulation, visualization, and machine learning.
+I work with **Python, SQL, and Power BI** to analyze datasets, uncover insights, build ML models, and deliver data-driven solutions.  
 
-I enjoy exploring datasets, uncovering insights, building ML models, and developing data-driven solutions.  
-I am also expanding my skills in **Deep Learning**, learning the foundations of neural networks and implementing introductory models using TensorFlow/Keras.
-
-I am currently **seeking opportunities** in **Data Science, Machine Learning, and Analytics**.
+Actively expanding my skills in **Deep Learning** while seeking opportunities in **Data Science, Machine Learning, and Analytics**.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### 🔹 Python (for Data Science)
-- Data types, indexing, slicing  
-- Conditions & loops  
-- Pandas & NumPy  
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Visualization: Matplotlib, Seaborn  
+### 🔹 Python & Data Analysis
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Data cleaning, preprocessing, and EDA  
+- Feature engineering & data storytelling  
 
 ### 🔹 Machine Learning
-- Regression & Classification  
-- Decision Trees, Random Forest  
-- Naïve Bayes  
-- K-Means & Hierarchical Clustering  
-- PCA, LDA
-- Time Series Forecasting
-- Recommendation Systems (Including SVD)
+- Regression, Classification, Decision Trees, Random Forest, Naïve Bayes  
+- Clustering (K-Means, Hierarchical), PCA/LDA  
+- Time Series Forecasting & Recommendation Systems (SVD)  
 - Model training, validation & evaluation  
 
-### 🔹 Deep Learning (Foundational Knowledge)
-- Basics of how neural networks work  
-- Understanding layers, activation functions, loss  
-- Building simple Sequential models  
-- Beginner TensorFlow/Keras workflows  
+### 🔹 Deep Learning 
+- Neural networks basics, layers, activation, loss functions  
+- Sequential models using TensorFlow/Keras  
+ 
 
 ### 🔹 Business Intelligence
-- Power BI: DAX, Data Modeling, Dashboards  
+- Power BI: KPI dashboards, DAX, data modeling, forecasting
+- Excel: Pivot Tables, Lookup functions, basic dashboards
 
 ### 🔹 SQL
-- Joins, Aggregations, Functions, Subqueries, CTE, Stored Procedure
-- Data extraction for analysis  
+- Joins, aggregations, subqueries, CTEs, stored procedures  
+- Data extraction & analysis for business insights  
+
+## 🔹 Projects & Highlights
+
+📂 My Projects Portfolio: [ds-ai-portfolio-projects](https://github.com/santhoshc92/ds-ai-portfolio-projects)
+
+- SQL: Customer behavior & restaurant analytics  
+- Power BI: End-to-end sales performance dashboards  
+- Python/ML: Insurance charges prediction, regression models, feature insights, Credit Score Classification, Clustering
 
 ---
 ## 🌟 About Me
