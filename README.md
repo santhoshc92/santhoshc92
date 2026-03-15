@@ -1,12 +1,11 @@
   # 👋 Hi, I'm Santhosh Chinnasamy
 
-### 🌱 Data Science and Analytics professional | Python (DS), SQL, Power BI, ML | Exploring Deep Learning 
+### 🌱 Data Science and Analytics professional | Python (DS), SQL, Power BI, ML, Deep Learning, Azure ML
 
 I am a motivated Data Science professional with an **Executive PG Certification in Data Science & AI** from *iHUB Divya Sampark – IIT Roorkee*.  
 I work with **Python, SQL, and Power BI** to analyze datasets, uncover insights, build ML models, and deliver data-driven solutions.  
 
-Actively expanding my skills in **Deep Learning** while seeking opportunities in **Data Science, Machine Learning, and Analytics**.
-
+Leveraging 3.5 years of enterprise experience as an SAP Workflow Consultant at IBM to build scalable, data-driven solutions. I specialize in translating complex business requirements into technical insights using Python, SQL, and Machine Learning.
 ---
 
 ## 🚀 Skills & Technologies
